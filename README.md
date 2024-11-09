@@ -2,5 +2,8 @@
 I made this simple iOS app in SwiftUI to show how someone can use a PageViewController in SwiftUI
 
 
-Uploading Simulator Screen Recording - iPhone 16 Pro - 2024-11-09 at 09.28.21.mp4…
+
+
+https://github.com/user-attachments/assets/d6e543b2-a50b-4e1b-bdf4-ebc7552a2966
+
 
